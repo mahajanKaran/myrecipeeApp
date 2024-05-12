@@ -1,7 +1,7 @@
 package com.karan.myrecipeeapp.core
 
 object Constants {
-    const val BASE_URL = "https://api.spoonacular.com/recipes/"
+    const val BASE_URL = "https://recipeapi.github.io/api/"
     const val API_KEY = "971eab78e58f44bf91f7bdcf636d19dc"
     const val RECIPE_SCREEN_RECIPE_TITLE_KEY = "recipetitle"
     const val RECIPE_SCREEN_RECIPE_CATEGORY_KEY = "recipecategory"
